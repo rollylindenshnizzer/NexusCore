@@ -1,0 +1,27 @@
+{
+  "gradient": {
+    "start": "#9257FF",
+    "end": "#FF4FCF"
+  },
+  "wave": {
+    "amplitude": 1.0,
+    "speed": 280.0,
+    "phase": 0.72
+  },
+  "jitter": {
+    "x": 0,
+    "y": 0,
+    "period": 100
+  },
+  "ghost": {
+    "color": "#000000",
+    "x": 0,
+    "y": 0
+  },
+  "shadow": true,
+  "particles": {
+    "style": "nexuscore:arcane_spark",
+    "count": 6,
+    "padding": 2
+  }
+}

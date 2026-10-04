@@ -1,0 +1,20 @@
+{
+  "required": true,
+  "package": "io.github.rollylindenshnizzer.nexuscore.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "client": [
+    "client.EntityRendererMixin",
+    "client.GameRendererMixin",
+    "client.GuiGraphicsMixin",
+    "client.WorldCreationUiStateMixin"
+  ],
+  "mixins": [
+    "worldgen.ChunkGeneratorMixin",
+    "worldgen.NoiseBasedChunkGeneratorMixin",
+    "worldgen.RandomStateMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

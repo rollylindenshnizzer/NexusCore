@@ -1,0 +1,7 @@
+{
+  "particle": "minecraft:end_rod",
+  "size": 3,
+  "tint": "#D98AFF",
+  "alpha": 0.95,
+  "frame_time": 95
+}
